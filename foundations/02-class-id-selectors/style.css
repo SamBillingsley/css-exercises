@@ -1,0 +1,19 @@
+.odd {
+  background-color: rgb(198, 94, 94);
+  font-family: "Verdana", "Dejavu Sans", sans-serif;
+}
+
+#line-2 {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+.adjust-font {
+  font-size: 24px;
+}
+
+#line-4 {
+  background-color: rgb(100, 200, 100);
+  font-size: 24px;
+  font-weight: bold;
+}
